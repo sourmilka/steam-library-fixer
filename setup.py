@@ -17,7 +17,7 @@ setup(
     description="Automatic Steam library repair tool for fixing configuration issues",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/steam-library-fixer",
+    url="https://github.com/sourmilka/steam-library-fixer",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",

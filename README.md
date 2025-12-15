@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)](https://github.com/yourusername/steam-library-fixer)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)](https://github.com/sourmilka/steam-library-fixer)
 
 **Automatic Steam library repair tool** - Fix game installation issues, mismatched download locations, and corrupted library configurations.
 
@@ -30,14 +30,9 @@
 - Python 3.8 or higher
 - Steam installed on your system
 
-### Install from PyPI (coming soon)
-```bash
-pip install steam-library-fixer
-```
-
 ### Install from Source
 ```bash
-git clone https://github.com/yourusername/steam-library-fixer.git
+git clone https://github.com/sourmilka/steam-library-fixer.git
 cd steam-library-fixer
 pip install -r requirements.txt
 ```
@@ -120,7 +115,7 @@ This tool modifies Steam configuration files. While it creates backups and is de
 
 ## 🐛 Bug Reports & Feature Requests
 
-Found a bug or have an idea? [Open an issue](https://github.com/yourusername/steam-library-fixer/issues)
+Found a bug or have an idea? [Open an issue](https://github.com/sourmilka/steam-library-fixer/issues)
 
 ## 📊 Statistics
 

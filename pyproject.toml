@@ -49,10 +49,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/steam-library-fixer"
-Repository = "https://github.com/yourusername/steam-library-fixer"
-Issues = "https://github.com/yourusername/steam-library-fixer/issues"
-Documentation = "https://github.com/yourusername/steam-library-fixer#readme"
+Homepage = "https://github.com/sourmilka/steam-library-fixer"
+Repository = "https://github.com/sourmilka/steam-library-fixer"
+Issues = "https://github.com/sourmilka/steam-library-fixer/issues"
+Documentation = "https://github.com/sourmilka/steam-library-fixer#readme"
 
 [project.scripts]
 steam-fixer = "src.main:main"

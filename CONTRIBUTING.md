@@ -33,7 +33,7 @@ Thank you for your interest in contributing!
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/steam-library-fixer.git
+git clone https://github.com/sourmilka/steam-library-fixer.git
 cd steam-library-fixer
 
 # Create virtual environment
